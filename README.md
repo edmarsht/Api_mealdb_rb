@@ -9,4 +9,6 @@ Open <strong>index.html</strong> in a live server.
 https://www.themealdb.com/api.php
 
 <h1>Bon apétit ! </h1>
-<img src="/mealdb.png" alt="">
+<img src="/mealdb.png" alt="mealdb">
+<br>
+<img src="/mealbreak.png" alt="mealbreak">
