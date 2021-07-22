@@ -1,5 +1,12 @@
-Manipulation de l'api : The meal db 
+<h1>The mealdb api rb </h1> 
+I use the meal db api to generate a random meal thanks to meal categories.
+Then the random meal is used in a Ruby on Rails project.
+
+<h3>How it works ? </h3>
+Open <strong>index.html</strong> in a live server. 
+
+<h3>The meal db api. <h3>
 https://www.themealdb.com/api.php
 
-Une fonction js qui donne une recette de cuisine aléatoirement grâce à une catégorie à choisir. 
-La fonction js et ensuite utilitée dans du ruby car l'objectif et d'introduire l'api dans une application Ruby On Rails. 
+<h1>Bon apétit ! </h1>
+<img src="" alt="">
